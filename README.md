@@ -1,1 +1,1 @@
-# Applied-Parallel-Computing
+# Лабораторная работа 0
