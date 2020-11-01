@@ -16,8 +16,11 @@
 # Характеристики
 
 CPU: Intel i5-2410M @2.30Ghz
+
 GPU: NVIDIA GeForce GT 540M
+
 RAM: 4,00 Гб
+
 OS: Windows7-x64
 
 # Результаты
