@@ -22,6 +22,8 @@ RAM: 4,00 Гб
 
 OS: Windows7-x64
 
+![alt text](512x512.bmp "Описание будет тут")
+
 # Результаты
 
 |N|CPU, с|GPU, с|Acceleration|
