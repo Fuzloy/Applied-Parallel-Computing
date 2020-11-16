@@ -22,7 +22,8 @@ RAM: 4,00 Гб
 
 OS: Windows7-x64
 
-![alt text](512x512.bmp, CPU_img.bmp)
+![alt text](512x512.bmp)
+![alt text](CPU_img.bmp)
 
 # Результаты
 
